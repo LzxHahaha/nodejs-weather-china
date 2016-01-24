@@ -57,3 +57,5 @@ weather.getForecast(areaid)
 * 说明：获取天气信息及未来三天（包括今天）的天气预报。
 > **注意**：如果是在当天18点之后获取的，forecast[0] 中的 `weatherBegein` 、
  `windForceBegin` 以及 `windDirectionBegin` 将为 `null`
+
+ 返回值具体内容见[index.js](https://github.com/LzxHahaha/nodejs-weather-china/blob/master/index.js)
