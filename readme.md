@@ -10,7 +10,7 @@ Weather-China 是对中国天网接口的再次封装，将原接口返回的数
 
 ## 安装
 
-```npm install weather --save```
+```npm install weather-china --save```
 
 ## 使用方法
 
